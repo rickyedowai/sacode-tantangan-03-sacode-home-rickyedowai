@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+footer .ikan {
+  margin-left: 2rem;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+nav .nav-item {
+  font-size: 1.2rem;
+}
